@@ -1,7 +1,7 @@
 # Base converter
 A python script to convert any base to any base.  
-***This script use native modules **BUT** it doesn't use native functions.
-It means that it uses a mathematical approach to convert.***
+**This script use native modules ***BUT*** it doesn't use native functions.
+It means that it uses a mathematical approach to convert.**
 
 ## How to download:
 
