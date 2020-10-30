@@ -26,6 +26,6 @@ or
     Exemple: `python3 base_converter.py B 16 10` -> Output will be 11  
 
 
-###### If you liked it, show your support in my github page :)
+###### If you liked it, you can show me your support in my github page :)
 
-* https://github.com/ZKAW/base-to-base-converter
+###### https://github.com/ZKAW/base-to-base-converter
