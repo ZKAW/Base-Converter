@@ -6,7 +6,7 @@ It means that it uses a mathematical approach to convert.**
 
 ## How to download:
 
-* `git clone https://github.com/ZKAW/base-to-base-converter`
+* `git clone https://github.com/ZKAW/Base-Converter`
 
 ## Installation:
 
@@ -31,4 +31,4 @@ or
 
 ###### If you liked it, you can show me your support in my github page :)
 
-###### https://github.com/ZKAW/base-to-base-converter
+###### https://github.com/ZKAW/Base-Converter
