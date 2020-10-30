@@ -12,16 +12,16 @@ Hello, the code is editable, so make it your own :)
 The main function is convert(), the rest of the code is optional.
 
 If you like my program, let me know in my github page <3
--> https://github.com/ZKAW/base-to-base-converter
+-> https://github.com/ZKAW/Base-Converter
  
 If you have any issue, please open a ticket in my github page.
--> https://github.com/ZKAW/base-to-base-converter/issues/new/choose
+-> https://github.com/ZKAW/Base-Converter/issues/new/choose
 """
 
 def exit_msg(): # just some credits
     print("Thank you for using my base converter !\n")
     print("If you liked it, you can star me in github <3")
-    print("https://github.com/ZKAW/base-to-base-converter")
+    print("https://github.com/ZKAW/Base-Converter")
     quit()
 exit = exit_msg
 
