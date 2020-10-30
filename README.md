@@ -12,6 +12,7 @@ A python script to convert any base to any base.
 ## Usage:
 
 * `python3 base_converter.py`  
+  
  -> You will be prompted for the number or letter to convert,  
     Then for the input base (in which base the number to convert is),  
     And, for the output base (in which base the number should be converted).
@@ -19,6 +20,7 @@ A python script to convert any base to any base.
 or
 
 * `python3 base_converter.py <number or letter to convert> <input_base> <output_base>`  
+  
  -> For a command line arguments usage.  
     Exemple: `python3 base_converter.py 1100 2 10` -> Output will be 12  
     Exemple: `python3 base_converter.py B 16 10` -> Output will be 11  
